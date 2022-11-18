@@ -127,7 +127,7 @@ plugins:
 copyright: >
     Document partagé par <a href="https://github.com/JoceDoc" target="_blank">Joce Doc</a>
     &copy; 2022 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
-    <br>" target="_blank">UnDraw</a>
+    <br>
 
 ### Configuration de liens sociaux https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links 
 extra:
@@ -138,9 +138,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/JoceDoc/
       name: Compte GitHub
-    # - icon: fontawesome/solid/book
-    #   link: https://cdi-lycee.ecmorlaix.fr/
-    #   name: CDI du Lycée Notre-Dame-du-Mur Le Porsmeur
+    - icon: fontawesome/solid/book
+      link: https://cdi-lycee.ecmorlaix.fr/
+      name: CDI du Lycée Notre-Dame-du-Mur Le Porsmeur
 
   
 
